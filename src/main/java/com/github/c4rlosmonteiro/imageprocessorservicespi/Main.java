@@ -1,4 +1,4 @@
-package com.github.c4rlosmontero.imageprocessorservicespi;
+package com.github.c4rlosmonteiro.imageprocessorservicespi;
 
 public class Main {
     public static void main(final String [] args) {

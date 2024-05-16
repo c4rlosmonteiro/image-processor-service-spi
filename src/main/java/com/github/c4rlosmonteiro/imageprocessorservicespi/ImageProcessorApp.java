@@ -1,6 +1,6 @@
-package com.github.c4rlosmontero.imageprocessorservicespi;
+package com.github.c4rlosmonteiro.imageprocessorservicespi;
 
-import com.github.c4rlosmontero.imageprocessorservicespi.service.ImageProcessorService;
+import com.github.c4rlosmonteiro.imageprocessorservicespi.service.ImageProcessorService;
 
 import java.util.*;
 

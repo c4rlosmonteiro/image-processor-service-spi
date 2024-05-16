@@ -1,4 +1,4 @@
-package com.github.c4rlosmontero.imageprocessorservicespi.service;
+package com.github.c4rlosmonteiro.imageprocessorservicespi.service;
 
 public interface ImageProcessorService {
     String getType();
